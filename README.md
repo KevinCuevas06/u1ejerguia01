@@ -1,3 +1,5 @@
-# u1ejerguia01
-Trabajo de KevinCuevas y FernandoVega
+# Estructura de datos
+# Ejercicios Guiados
+# Trabajo 
+ Trabajo de KevinCuevas y FernandoVega
 
